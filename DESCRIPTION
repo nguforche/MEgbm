@@ -1,0 +1,29 @@
+Package: MEgbm
+Title: Mixed Effect Generalized Boosted Machines for longitudinal data  
+Version: 0.0.1
+Authors@R: person("Che", "Ngufor", email = "Ngufor.Che@mayo.edu", 
+	role = c("aut", "cre"))
+Description: Machine learning methods for longitudinal and clustered data based on 
+        standard generalized linear mixed effect model, regression trees, and generalized 
+        boosted machines. 
+Depends: R (>= 3.1.2)
+Imports: 
+    PresenceAbsence,
+    caret,
+    rpart,
+    lme4,
+    rpart.plot,
+    partykit,
+    Matrix,
+    vcd,
+    grid,
+    plyr
+License: GPL(>= 3)
+LazyData: true
+NeedsCompilation: no
+
+
+
+
+
+

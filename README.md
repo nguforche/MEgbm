@@ -14,7 +14,7 @@ Install via devtools:
 > devtools::install_github("nguforche/MEgbm")
 ```
 ## Status
-Package is still very experimental 
+Package is still very experimental and not for public use! 
 
 
 
